@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Samuel Kekkonen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammekekko)](https://github.com/sammekekko/github-readme-stats)
+[![Samuel Kekkonen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&theme=radical)](https://github.com/sammekekko/github-readme-stats)
 
 <!--
 **sammekekko/sammekekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
