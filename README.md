@@ -34,7 +34,9 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am s
 
 # What projects am I currently working on?
 
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=sammekekko&repo=discord-bot-testing" onClick="https://github.com/sammekekko/discord-bot-testing">
+<a href="https://github.com/sammekekko/discord-bot-testing">
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=sammekekko&repo=discord-bot-testing">
+</a>
 
 <!--
 **sammekekko/sammekekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
