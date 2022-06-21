@@ -1,10 +1,9 @@
 # Hello there, I am Samuel! 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,696eff,f8acff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true">
-<img align="left" width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko">
+<img align="left" width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko" <br>>
 
 <!-- Markdown badges!-->
-<p> <br></p>
 <img align="left" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
