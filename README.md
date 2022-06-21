@@ -5,7 +5,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<!-- Markdown badges!-->
+<!-- Markdown badges !-->
 <img align="left" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -14,6 +14,10 @@
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <p>&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+<!-- Self Information!-->
+
+## Who am I?
 
 <!--
 **sammekekko/sammekekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
