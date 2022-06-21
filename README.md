@@ -27,6 +27,7 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am s
 <strong>- Discord</strong>: sammekekko#9152
 <br>
 <strong>- Email</strong>: samuel@kekkobusiness.com
+<br>
 <strong>- Through my website</strong>: https://www.kekkobusiness.com
 
 <p>&nbsp;</p>
