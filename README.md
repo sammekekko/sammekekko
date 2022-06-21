@@ -4,7 +4,7 @@
 <img align="left" width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko">
 
 <!-- Markdown badges!-->
-<p><br></p>
+<p>Whatsup<br></p>
 <img align="left" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
