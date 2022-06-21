@@ -25,7 +25,7 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am s
 
 # What projects am I currently working on?
 
-(https://github-readme-stats.vercel.app/api/pin/?username=sammekekko&repo=discord-bot-testing)
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=sammekekko&repo=discord-bot-testing">
 
 
 <!--
