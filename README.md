@@ -18,8 +18,15 @@
 <!-- Self Biography !-->
 <p>&nbsp;</p>
 
-# Who am I?
+# 😎 Who am I?
 As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am studying <strong>computer science</strong>. I have always been interested and curious about computers and how they work, from there I started experimenting with lines of <strong>code</strong>. I started programming tiny <strong>applications</strong> where you could view your PC stats, check if a port was open, while also programming <strong>Minecraft plugins</strong>. I continued developing Minecraft plugins for a long time, but realized it wasn't for me. I quickly moved on to code <strong>websites</strong> and other <strong>applications</strong>. This is where I am today, and I am fully invested in this genre of development. What is next will be many years of professional work, and a never-ending learning journey. 
+
+<p>&nbsp;</p>
+ 
+# 📫 You can reach me at
+<strong>- Discord</strong>: sammekekko#9152
+<strong>- Email</strong>: samuel@kekkobusiness.com
+<strong>- Through my website</strong>: https://www.kekkobusiness.com
 
 <p>&nbsp;</p>
 
