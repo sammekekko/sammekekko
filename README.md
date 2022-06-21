@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there, I am Samuel! 👋
 
 [![Samuel Kekkonen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&theme=radical)](https://github.com/sammekekko/github-readme-stats)
 
