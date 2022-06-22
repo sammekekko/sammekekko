@@ -24,7 +24,7 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am s
 <p>&nbsp;</p>
  
 # 📫 You can reach me at:
-<img src="https://img.shields.io/badge/-samuel@kekkobusiness.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel@kekkobusiness.com)](mailto:samuel@kekkobusiness.com" height=20px%>
+<img src="https://img.shields.io/badge/-samuel@kekkobusiness.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel@kekkobusiness.com)](mailto:samuel@kekkobusiness.com">
 <br>
 <img src="https://dcbadge.vercel.app/api/shield/227799114610376704">
 
