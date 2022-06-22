@@ -14,11 +14,12 @@
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <p>&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img align="left" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git">
-<img align="left" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
-<img align="left" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku">
-<img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-<img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+<img align="left" src="(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img align="left" src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 
 <!-- Self Biography !-->
