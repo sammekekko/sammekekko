@@ -27,16 +27,13 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am s
 [![Gmail Badge](https://img.shields.io/badge/-samuel@kekkobusiness.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel@kekkobusiness.com)](mailto:samuel@kekkobusiness.com)
 <br>
 ![](https://dcbadge.vercel.app/api/shield/227799114610376704)
-<br>
-<br>
-<strong>- Through my website</strong>: https://www.kekkobusiness.com
 
-<p>&nbsp;</p>
+<br>
 
 # What projects am I currently working on?
 
 <a href="https://github.com/sammekekko/discord-bot-testing">
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=sammekekko&repo=discord-bot-testing">
+ <img src= "https://github-readme-stats.vercel.app/api/pin/?username=sammekekko&repo=discord-bot-testing">
 </a>
 
 <!--
