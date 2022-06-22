@@ -1,7 +1,7 @@
 # Hello there, I am Samuel! 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,696eff,f8acff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true">
-<img align="left" width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko">
+<img align="left" width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,696eff,f8acff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
