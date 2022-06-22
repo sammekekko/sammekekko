@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I am Samuel! 👋</h1>
+<h1 align="center">Hello there, I am Samuel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"></h1>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true">
 <img align="left" width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true">
