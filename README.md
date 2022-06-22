@@ -14,6 +14,13 @@
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <p>&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img align="left" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+<img align="left" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+<img align="left" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku">
+<img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+<img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img align="left" src="">
+
 
 <!-- Self Biography !-->
 <br>
