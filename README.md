@@ -34,7 +34,7 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am s
 <img src="https://dcbadge.vercel.app/api/shield/227799114610376704">
 
 <a href="https://www.kekkobusiness.com">
- <img src="https://img.shields.io/badge/Website-kekkobusiness.com-lightgrey">
+ <img src="https://img.shields.io/badge/Website-kekkobusiness.com-lightgrey?style=for-the-badge&logo=appveyor">
 </a>
 <br>
 
