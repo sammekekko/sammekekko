@@ -33,8 +33,8 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am s
 <img src="https://img.shields.io/badge/-samuel@kekkobusiness.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel@kekkobusiness.com)](mailto:samuel@kekkobusiness.com">
 <img src="https://dcbadge.vercel.app/api/shield/227799114610376704">
 
-<a>
- https://img.shields.io/badge/Website-kekkobusiness.com-lightgrey
+<a href="https://www.kekkobusiness.com">
+ <img src="https://img.shields.io/badge/Website-kekkobusiness.com-lightgrey">
 </a>
 <br>
 
