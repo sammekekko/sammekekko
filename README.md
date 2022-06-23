@@ -24,7 +24,7 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am a
 <img align="left" src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true">
-<img align="left" width=36% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true">
 
 
 <!-- Self Biography !-->
