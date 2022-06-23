@@ -7,6 +7,9 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am a
 
 ## Stats and Technology
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true)
+
 <!-- Markdown badges !-->
 <img align="left" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
@@ -22,9 +25,6 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am a
 <img align="left" src="(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img align="left" src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true">
 
 
 <!-- Self Biography !-->
