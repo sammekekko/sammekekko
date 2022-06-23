@@ -1,18 +1,10 @@
 <h1 align="center">Nice seeing you here, I'm Samuel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%"></h1>
 
-<img style="position: asbolute;" align="left" src="https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true">
-<img style="position: asbolute;" align="left" width=36% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true">
+<img style="position: fixed;" align="left" src="https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true">
+<img style="position: fixed;" align="left" width=36% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <!-- Markdown badges !-->
 <img align="left" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
