@@ -30,7 +30,7 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am a
 <!-- Self Biography !-->
 <!-- <br> !-->
  
-# 📫 You can reach me at:
+## 📫 You can reach me at:
 <img src="https://img.shields.io/badge/-samuel@kekkobusiness.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:samuel@kekkobusiness.com)](mailto:samuel@kekkobusiness.com">
 <img src="https://dcbadge.vercel.app/api/shield/227799114610376704">
 
