@@ -5,7 +5,7 @@ As you may already know, my name is <strong>Samuel Kekkonen</strong>, and I am a
 
 <!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> !-->
 
-## Stats and Technology
+## 📈 Stats and Technology
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammekekko&show_icons=true&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammekekko&bg_color=DEG,133a94,919bff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true)
